@@ -88,7 +88,7 @@ var body: some View {
 
 
 
-![image-20201103145419284](/Users/choyi/Library/Application Support/typora-user-images/image-20201103145419284.png)
+![image-20201103145419284](https://user-images.githubusercontent.com/28949235/97962291-2c76a500-1df8-11eb-9329-7460b6f0e7fb.png)
 
 > SwiftUI error - Extra argument in call
 
