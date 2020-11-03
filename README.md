@@ -32,3 +32,5 @@ https://developer.apple.com/kr/xcode/swiftui/
 
 [100 days with SwiftUI](https://www.hackingwithswift.com/100/swiftui) : 깃허브 둘러보다가 이걸 시도한 repo를 봤다.. 영어공부도 할 겸 겸사겸사
 
+[WWDC 2019 세션](https://developer.apple.com/videos/play/wwdc2019/204/) : 공식 세션
+
