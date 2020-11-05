@@ -1,5 +1,9 @@
 # SwiftUI 배우기 ~~! 
 
+> 해당 레포는 날짜별로 인덱싱 해놓았고
+>
+> 내용별로 보려면 [여기](https://iamcho2.github.io/devpost/)!
+
 ![](https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96.png)
 
 여러 강의를 듣고 나름대로 정리한 스터디 노트를 모아놓는 레포
